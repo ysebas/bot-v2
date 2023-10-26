@@ -58,7 +58,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/FG98F/senna-bot
+$ git clone https://github.com/ysebas/bot-v2
 $ cd senna-bot
 $ npm i 
 $ npm start
