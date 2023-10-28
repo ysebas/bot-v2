@@ -21,7 +21,7 @@ global.APIKeys = { // APIKey Here
 
 // Sticker WM
 global.packname = 'BOT' 
-global.author = 'SEBASTIAN' 
+global.author = 'BOT' 
 
 //--info FG
 global.botName = 'BOT WPSA'
